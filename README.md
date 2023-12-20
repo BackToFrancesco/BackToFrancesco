@@ -37,7 +37,8 @@ Here's a glimpse into my journey:
 
 ### Connect with me: ###
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Website | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 
 <!-- variables -->
 [linkedin]: https://www.linkedin.com/in/francesco-bacchin-ba739121b/
+[website]: https://backtofrancesco.github.io/
